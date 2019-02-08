@@ -1,0 +1,31 @@
+.contactUsHeading {
+    text-align: center;
+    font-size: 50px;
+    color: cornflowerblue;
+}
+
+.contactUsPara {
+    text-align: center;
+    font-size: 32px;
+    color: cadetblue;
+	margin-bottom: 5px;
+
+}
+
+.form-div{ 
+	margin: auto;
+    width: 50%;
+    border: 2px solid green;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.submitBtn{
+	width: 100%;
+}
+
+.form-validation-error{
+	color: red;
+}
